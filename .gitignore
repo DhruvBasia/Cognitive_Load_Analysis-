@@ -1,0 +1,17 @@
+﻿__pycache__/
+*.py[cod]
+venv/
+.venv/
+.ipynb_checkpoints/
+.env
+node_modules/
+dist/
+build/
+.vite/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+.cache/
+nltk_data/
